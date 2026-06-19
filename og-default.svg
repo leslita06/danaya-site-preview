@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Danaya">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b1f3a"/>
+      <stop offset="1" stop-color="#14315c"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <g transform="translate(90,110)">
+    <rect width="84" height="84" rx="20" fill="#0fb5a6"/>
+    <text x="42" y="60" font-family="Arial, sans-serif" font-size="56" font-weight="800" fill="#0b1f3a" text-anchor="middle">D</text>
+  </g>
+  <text x="200" y="172" font-family="Arial, sans-serif" font-size="52" font-weight="800" fill="#ffffff">Danaya</text>
+  <text x="90" y="320" font-family="Arial, sans-serif" font-size="58" font-weight="800" fill="#ffffff">KYC, KYB &amp; conformité LCB-FT</text>
+  <text x="90" y="392" font-family="Arial, sans-serif" font-size="58" font-weight="800" fill="#0fb5a6">en Afrique de l'Ouest</text>
+  <text x="90" y="470" font-family="Arial, sans-serif" font-size="30" font-weight="400" fill="#c7d2e2">Vérification d'identité &amp; automatisation de la conformité — zone BCEAO</text>
+</svg>
